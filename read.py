@@ -1,4 +1,4 @@
-f = open("results_vgg16_freezed_with_auc.txt","r")
+f = open(r"VGG16\with_augmentation\results.txt","r")
 
 lines = f.readlines()
 f.close()
