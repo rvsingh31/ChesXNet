@@ -5,7 +5,8 @@ This project was maintained on Google drive throughout its timeline for easy acc
 
 We used NIH X-rays dataset which consists of X-rays corresponding to 14 different types of thoracic diseases. You can find the dataset on [Kaggle](https://www.kaggle.com/nih-chest-xrays/data) also.
 
-The trained models, weights and corresponding datasets created and used are present on personal drive. If you are interested, please let me know. I will share the dataset with you.
+The trained models, weights and corresponding datasets created and used are present on personal drive. 
+You can find the project directory over [here](https://drive.google.com/open?id=1yRNl7BVBZkmMXmT9fG_nPm0hIBw2x940).
 
 The project report specifies the work we have done in this project, the architecture we used and the results we achieved. 
 You can find the report [here](Project_Report.pdf).
