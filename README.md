@@ -8,4 +8,4 @@ We used NIH X-rays dataset which consists of X-rays corresponding to 14 differen
 The trained models, weights and corresponding datasets created and used are present on personal drive. If you are interested, please let me know. I will share the dataset with you.
 
 The project report specifies the work we have done in this project, the architecture we used and the results we achieved. 
-You can find the report [here](final_report.pdf)
+You can find the report [here](Project_Report.pdf).
